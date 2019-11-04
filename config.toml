@@ -4,7 +4,7 @@ title = "My New Hugo Site"
 theme = "ananke"
 paginate = 20
 canonifyurls = true
-publishDir = "public"
+publishDir = "subratrout.github.io"
 
 pygmentsstyle = "b2"
 pygmentscodefences = true
